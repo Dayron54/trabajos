@@ -1,0 +1,52 @@
+.titulo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    letter-spacing: 9px;
+    text-align: center;
+}
+
+.subtitulo{
+    background-color: rgb(107, 107, 107);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-indent: 1%;
+    font-size: 35px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.parrafo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:15px ;
+    text-indent: 4%;
+    text-align: justify;
+    margin-left: 29%;
+    margin-right: 17%;
+}
+.parrafo2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:15px ;
+    text-indent: 4%;
+    text-align: justify;
+    margin-left: 29%;
+    margin-right: 17%;
+}
+
+.img{
+    float: left;
+    width: 150px;
+    height: 150px;
+    margin-left: 18%;
+}
+.img1{
+    float: left;
+    width: 108px;
+    height: 150px;
+    margin-left: 260px;
+}
+a{
+    color:red
+}
+a1{
+    background-color: white;
+}

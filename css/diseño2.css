@@ -1,0 +1,20 @@
+.titulo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    letter-spacing: 5px;
+    text-align: center;
+}
+h1{
+    color: #424345;
+}
+h2{
+    color:#54626B;
+    background-color: #91A2AC;
+}
+a{
+    color: #4C9ACB;
+}
+p{
+    background-color: #C5CCD2;
+    white-space:pre-line;
+}
